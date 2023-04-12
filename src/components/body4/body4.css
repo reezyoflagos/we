@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.inbody4 {
+  margin-top: 20px;
+}
+@media (max-width: 576px) {
+  .inbody4 {
+    display: none;
+  }
+}
+.inbody4 .me .hin {
+  text-align: center;
+  font-size: 40px;
+}
+.inbody4 h5 {
+  text-align: center;
+  font-size: 20px;
+}/*# sourceMappingURL=body4.css.map */
